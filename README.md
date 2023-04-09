@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Patty! ![](https://komarev.com/ghpvc/?username=PattysDevelopment&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/vnjPpwuQFg) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://crimsondev.shop)
+## Hey 👋, I'm Kiko! ![](https://komarev.com/ghpvc/?username=PattysDevelopment&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/vnjPpwuQFg) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://crimsondev.shop)
 
 ```js
 async function legend() {
@@ -22,10 +22,10 @@ exports.hyperz = legend;
 ```
 
 <p align="center">
-<a href="https://github.com/PattysDevelopment">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PattysDevelopment&show_icons=true&title_color=FB8C00&icon_color=5865F2&text_color=FB8C00&bg_color=151515&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PattysDevelopment&layout=compact&langs_count=8&title_color=FB8C00&icon_color=5865F2&text_color=FB8C00&bg_color=151515"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PattysDevelopment&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&sideLabels=D9DDC3" /></a>
+<a href="https://github.com/kikoilce0712">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kikoilce0712&show_icons=true&title_color=FB8C00&icon_color=5865F2&text_color=FB8C00&bg_color=151515&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikoilce0712&layout=compact&langs_count=8&title_color=FB8C00&icon_color=5865F2&text_color=FB8C00&bg_color=151515"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kikoilce0712&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&sideLabels=D9DDC3" /></a>
 </a>
 </p>
  
